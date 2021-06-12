@@ -1,0 +1,7 @@
+Int a = 5
+Float b = 10
+String c = "This is a String"
+Boolean d = a < b
+Int e
+if ( a > b )
+    e = 10
